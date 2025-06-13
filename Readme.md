@@ -86,6 +86,41 @@ Feel free to check out my projects below and connect with me!
 
 
 
+## 📌 Featured Projects
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="45%">
+        <h3>🛒 <a href="https://github.com/ZihadDevVault/ecommerce-website">E-Commerce Website</a></h3>
+        <p>Fully responsive website using <strong>HTML, CSS, Bootstrap</strong>. Features product listings, shopping cart & elegant UI.</p>
+      </td>
+      <td width="45%">
+        <h3>🧮 <a href="https://github.com/ZihadDevVault/js-calculator">JS Calculator</a></h3>
+        <p>Simple and functional calculator using <strong>Vanilla JavaScript</strong>. Supports keyboard input and standard math operations.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="45%">
+        <h3>⏲️ <a href="https://github.com/ZihadDevVault/react-timer-app">React Timer App</a></h3>
+        <p>A beautiful and minimal <strong>React-based timer</strong> with Start, Pause, and Reset features using hooks.</p>
+      </td>
+      <td width="45%">
+        <h3>✅ <a href="https://github.com/ZihadDevVault/react-todo-app">React To-Do App</a></h3>
+        <p>Organize your tasks easily with this <strong>React Hooks-based To-Do App</strong>. Add, update, and delete tasks seamlessly.</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<p align="center">
+  🔍 View all my repositories: <a href="https://github.com/ZihadDevVault?tab=repositories">github.com/ZihadDevVault</a>
+</p>
+
+
+
 - 🔭 I’m currently working on [To-Do App](https://github.com/ZihadDevVault/To-Do-App-with-React)
 
 - 💬 Ask me about **Javascrip,React**
