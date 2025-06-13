@@ -7,10 +7,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#0ca4a5;">Md Zihad Mia</span> 👋</h1>
 <h3 align="center">🚀 Front-End Developer | 💻 MERN Stack Learner | 🎯 Dreaming Big</h3>
 
-<!-- ⌨️ Typing animation -->
-<p align="center">
-  <img src="https://picsum.photos/1280/640" />
-</p>
+
 
 <!-- 🔗 Badges / Contact -->
 <p align="center">
