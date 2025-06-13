@@ -75,7 +75,7 @@ Feel free to check out my projects below and connect with me!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZihadDevVault&show_icons=true&theme=react&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZihadDevVault&theme=react&hide_border=true" width="47%" />
+ 
 </p>
 
 <p align="center">
