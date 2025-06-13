@@ -1,9 +1,33 @@
-<h1 align="center">Hi 👋, I'm Zihad</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<!-- 🎨 Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/pC1untr.png" alt="Md Zihad Mia - Frontend Developer" width="100%" />
+</p>
 
-<p align="left"> <img src="https://picsum.photos/200" alt="zihaddevvault" /> </p>
+<!-- 🙋‍♂️ Introduction -->
+<h1 align="center">Hi there, I'm <span style="color:#0ca4a5;">Md Zihad Mia</span> 👋</h1>
+<h3 align="center">🚀 Front-End Developer | 💻 MERN Stack Learner | 🎯 Dreaming Big</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zihaddevvault" alt="zihaddevvault" /></a> </p>
+<!-- ⌨️ Typing animation -->
+<p align="center">
+  <img src="https://picsum.photos/1280/640" />
+</p>
+
+<!-- 🔗 Badges / Contact -->
+<p align="center">
+  <a href="https://github.com/ZihadDomain">
+    <img src="https://img.shields.io/github/followers/ZihadDomain?label=Follow&style=social" />
+  </a>
+  <a href="mailto:mdzihad.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdzihad.dev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mdzihadmia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-mdzihadmia-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+
 
 - 🔭 I’m currently working on [To-Do App](https://github.com/ZihadDevVault/To-Do-App-with-React)
 
