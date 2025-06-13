@@ -69,6 +69,22 @@ Feel free to check out my projects below and connect with me!
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
+## 🚀 Problem Solving Profiles
+
+<p align="center">
+  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/your-codeforces-username" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/your-codechef-username" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+</p>
 
 
 ## 📊 GitHub Stats
