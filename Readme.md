@@ -24,6 +24,19 @@
 
 ---
 
+## 👨‍💻 About Me
+
+Hello! I'm **Md Zihad Mia**, a passionate Front-End Developer and MERN Stack learner from Bangladesh.  
+I love crafting clean, responsive, and user-friendly websites and applications.
+
+- 🔭 Currently working on React projects and improving my backend skills with Node.js and MongoDB  
+- 🌱 Always eager to learn new technologies and improve my coding skills  
+- 💬 Ask me about React, JavaScript, Tailwind CSS, and UI/UX design  
+- 🚀 My goal is to become a world-class full-stack developer and build impactful digital products  
+
+Feel free to check out my projects below and connect with me!
+
+
 
 
 - 🔭 I’m currently working on [To-Do App](https://github.com/ZihadDevVault/To-Do-App-with-React)
