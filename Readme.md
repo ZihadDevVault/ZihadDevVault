@@ -71,6 +71,18 @@ Feel free to check out my projects below and connect with me!
 
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZihadDomain&show_icons=true&theme=react&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZihadDomain&theme=react&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZihadDomain&layout=compact&theme=react&hide_border=true" width="50%" />
+</p>
+
+
 - 🔭 I’m currently working on [To-Do App](https://github.com/ZihadDevVault/To-Do-App-with-React)
 
 - 💬 Ask me about **Javascrip,React**
