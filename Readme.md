@@ -1,6 +1,6 @@
 <!-- 🎨 Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/pC1untr.png" alt="Md Zihad Mia - Frontend Developer" width="100%" />
+  <img src="./assets/Githubporofile.png" alt="Md Zihad Mia - Frontend Developer" width="100%" />
 </p>
 
 <!-- 🙋‍♂️ Introduction -->
@@ -11,13 +11,13 @@
 
 <!-- 🔗 Badges / Contact -->
 <p align="center">
-  <a href="https://github.com/ZihadDomain">
-    <img src="https://img.shields.io/github/followers/ZihadDomain?label=Follow&style=social" />
+  <a href="https://github.com/ZihadDevVault">
+    <img src="https://img.shields.io/github/followers/ZihadDevVault?label=Follow&style=social" />
   </a>
-  <a href="mailto:mdzihad.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdzihad.dev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:engr.zihadmia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-engr.zihadmia@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mdzihadmia" target="_blank">
+  <a href="https://www.linkedin.com/in/engrzihad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-mdzihadmia-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
@@ -72,7 +72,7 @@ Feel free to check out my projects below and connect with me!
 ## 🚀 Problem Solving Profiles
 
 <p align="center">
-  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
+  <a href="https://www.hackerrank.com/profile/engr_zihadmia" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   <a href="https://leetcode.com/your-leetcode-username" target="_blank">
@@ -139,16 +139,16 @@ Feel free to check out my projects below and connect with me!
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:engr.zihadmia@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://engr-zihad.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/engrzihad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/your-profile" target="_blank">
+  <a href="https://web.facebook.com/MD.Zihad.mia.622" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://github.com/ZihadDevVault" target="_blank">
