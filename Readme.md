@@ -158,10 +158,32 @@ Feel free to check out my projects below and connect with me!
 
 
 
-## 🐍 Contribution Graph
+---
+
+<br/>
 
 <p align="center">
-  <img src="https://github.com/ZihadDevVault/ZihadDevVault/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" />
 </p>
+
+<p align="center">
+  💝  Thank you for visiting my profile!  
+  <br/>  
+  🙌 Keep learning, keep building, and never stop growing! 
+  <br/><br/>
+  🎵 <i>"Code is the rhythm of logic, design is the melody of mind."</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+</p>
+
+<p align="center">
+  🌟 <b>Let's connect & create together!</b>
+  <br/>
+  💻 With 💙 from <b>ZihadDevVault</b> — © 2025
+</p>
+
+---
 
 
